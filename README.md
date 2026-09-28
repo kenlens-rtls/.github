@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kenlens-rtls/.github/main/profile/kenlens-logo.png" alt="KenLens" width="280" />
+  <img src="https://raw.githubusercontent.com/kenlens-rtls/.github/master/profile/kenlens-logo.png" alt="KenLens" width="280" />
 </p>
 
 <h3 align="center">Self-hostable real-time location for indoor asset tracking</h3>
