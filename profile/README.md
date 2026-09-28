@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/kenlens-rtls/.github/master/profile/kenlens-logo.png" alt="KenLens" width="280" />
 </p>
 
-<h3 align="center">Self-hostable real-time location for indoor asset tracking</h3>
+<h3 align="center">Self-hostable real-time location for asset tracking</h3>
 
 KenLens is a Real-Time Location System (RTLS) for factory floors. It ingests UWB
 ranging from anchors over MQTT, computes tag positions, evaluates zone geofences and
